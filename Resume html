@@ -5,29 +5,167 @@
 		<link rel="stylesheet" type="text/css" href="Style.css" />
 	</head>
 	<body>
-		<div id="header">
-			<h1>Christopher Chen</h1>
+		<div id="container">
+		<div id="content">
+			<div id="header">
+				<h1>Christopher Chen</h1>
+			</div>
+			<div id="personal-info">
+				<p>christopheryfchen@gmail.com • 1358 St. John's Place New York, NY • (929) 461-1396</p>
+			</div>
+			<div id="org">
+				<div id="category">
+				<p><b>EDUCATION</b></p>
+				</div>
+					<hr />
+				<div id="org">
+					<span style="float: left;"><b>New York University – College of Arts & Sciences</b></span>
+					<span style="float: right;"><b>New York, NY</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Bachelor of Science in Sociology</i></span>
+					<span style="float: right;"><i>Sep 2015 - May 2021</i></span>
+					<br>
+				<div id="bullets">
+					<p><b>•&nbsp;&nbsp;&nbsp;&nbsp;Activities:</b> President of NYU Chinese Student Society</p>
+				</div>
+				<div id="org">
+					<span style="float: left;"><b>American School of Madrid</b></span>
+					<span style="float: right;"><b>Madrid, Spain</b></span>
+				</div>
+					<br>
+					<span style="float: left;"><i>International Baccalaureate</i></span>
+					<span style="float: right;"><i>Sep 2000 - June 2015</i></span>
+					<br>
+				<div id="bullets">
+					<p><b>•&nbsp;&nbsp;&nbsp;&nbsp;Activities:</b> Rockschool Guitar Grade 8, President of Gay-Straight Alliance in ASM</p>
+				</div>
+				</div>
+			</div>
+			<div id="org">
+				<div id="category">
+					<p><b>PROFESSIONAL EXPERIENCE</b></p>
+				</div>
+					<hr />
+				<div id="org">
+					<span style="float: left;"><b>Noodle Shop</b></span>
+					<span style="float: right;"><b>Madrid, Spain</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Manager</i></span>
+					<span style="float: right;"><i>May 2019 - Jan 2020</i></span>
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Development and creation of food and beverages in menu</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Decorated and decided the interior design of the restaurant</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Managed incoming and outgoing finances of the business</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Supervised and trained all new staff members in accordance to company policies and standards</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Assign, managed and oversaw waiter and chef performance</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Managed and dictated optimum marketing methods and strategies for the growth and success of the business</p>
+				</div>
+				<div id="org">
+					<span style="float: left;"><b>Petsky Prunier</b></span>
+					<span style="float: right;"><b>New York, NY</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Research Assistant Intern</i></span>
+					<span style="float: right;"><i>Sep 2015 - Jan 2016</i></span>	
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Researched, analyzed, and collected information about a variety of companies and compiled them into data bases</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Created longlists of executives and industry reports for further work on mergers and acquisitions</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Performed specialized market research in the industries of media, marketing, information, and technology</p>
+				</div>
+				<div id="org">
+					<span style="float: left;"><b>Asia Gallery</b></span>
+					<span style="float: right;"><b>Madrid, Spain</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Manager</i></span>
+					<span style="float: right;"><i>Sep 2014 - May 2019</i></span>	
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Provided customer service excellence in a fine dining atmosphere </p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Supervised and trained all new staff members in accordance to company policies and standards</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Handled any and all guest queries and complaints</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Assign, managed and oversaw waiter and chef performance</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Managed payrolls of individual employees</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Interacted with customers as well as business partners on a daily basis</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Assisted with menu management and redesigning depending on customer trends and preferences</p>
+				</div>
+				<div id="org">
+					<span style="float: left;"><b>Grupo Perteo</b></span>
+					<span style="float: right;"><b>Madrid, Spain</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Intern</i></span>
+					<span style="float: right;"><i>Jun 2014 - Sep 2014</i></span>	
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Constantly learned from experts in the construction sector of civil engineering and environmental management</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Attended meetings with clients discussing large projects in social reworks</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Collected data on necessary societal information in order for larger construction projects to be executed</p>
+				</div>
+			</div>
+			<div id="org">
+				<div id="category">
+					<p><b>LEADERSHIP & EXTRACURRICULARS</b></p>
+				</div>
+					<hr />
+				<div id="org">
+					<span style="float: left;"><b>NYU Chinese Student Society</b></span>
+					<span style="float: right;"><b>New York, NY</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>President</i></span>
+					<span style="float: right;"><i>Sep 2017 - May 2019</i></span>
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Established in 1959 with over 1000 + active members</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Oversee all internal and external committee activities </p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Organize cultural events within the executive board of the NYU community</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Handle financial planning, investment of organization funds, reimbursements, and budget allocations</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Collaborate with other fellow Asian-interest organizations on campus</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Establish strong connections and relationships with catering businesses for the events our club hosts</p>
+				</div>
+				<div id="org">
+					<span style="float: left;"><b>Music Instructor</b></span>
+					<span style="float: right;"><b>New York, NY</b></span>
+				</div>
+					<br>
+				<div id="info">
+					<span style="float: left;"><i>Volunteer Guitar Instructor</i></span>
+					<span style="float: right;"><i>Sep 2016 - May 2019</i></span>	
+					<br>
+				</div>
+				<div id="bullets">
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Provide free private guitar (acoustic or electric) lessons</p>
+					<p>•&nbsp;&nbsp;&nbsp;&nbsp;Constantly discover as well as develop different styles and methods of teaching</p>
+				</div>
+			<div id="org">
+				<div id="category">
+					<p><b>SKILLS & INTERESTS</b></p>
+				</div>
+					<hr />
+				<div id="org">
+					<p><b>Technical:</b> Microsoft Office (Excel, Outlook, Powerpoint, Word), HTML, CSS</p>
+					<p><b>Languages:</b> Native proficiency in English and Spanish, Limited working proficiency in Mandarin and French</p>
+					<p><b>Intersts:</b> Guitar, Dance, E-Sports, Cooking, Hospitality, Poetry, Writing, Traveling, Gordon Ramsay, Cultural Exploration</p>
+				</div>
+			</div>
+			</div>
 		</div>
-		<div id="info">
-			<p>christopheryfchen@gmail.com • 1358 St. John's Place New York, NY • (929) 461-1396</p>
 		</div>
-		<div id="edu-head">
-		<div id="edu-header">
-			<p><b>Education</b>
-		</div>
-				<hr/>
-		<div>
-			<span style="float: left;"><b>New York University – College of Arts & Sciences</b></span>
-			<span style="float: right;"><b>New York, NY</b></span>
-		</div>
-		</div>
-			<br>
-		<div id="edu-NYU">
-			<span style="float: left;"><i>Bachelor of Science in Sociology</i></span>
-			<span style="float: right;"><i>Sep 2015 - May 2021</i></span>
-		</div>
-			<ul>
-				<li><b>Activities:</b> President of NYU Chinese Student Society</li>
-			</ul>
 	</body>
 </html>
