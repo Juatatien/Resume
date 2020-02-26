@@ -1,0 +1,41 @@
+ hr.divider { 
+  margin: 0em;
+  border-width: 1px;
+} 
+
+p {
+  margin: 0;
+  padding: 0; 
+}
+
+ul li {
+	margin: 0px;
+	padding-left: 0.5em;
+	font-size: 14px;
+}
+
+#header{
+	font-size: 22px;
+	text-align: center;
+	padding: 0px;
+}
+
+#info{
+	font-size: 20px;
+	text-align: center;
+	padding: 0px;
+}
+
+#edu-header{
+	font-size: 18px;
+}
+
+#edu-head{
+	font-size: 15px;
+	text-align: left;
+}
+
+#edu-NYU{
+	font-size: 14px;
+}
+
