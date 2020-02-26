@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Christopher Chen's Resume </title>
+		<link rel="stylesheet" type="text/css" href="Style.css" />
+	</head>
+	<body>
+		<div id="header">
+			<h1>Christopher Chen</h1>
+		</div>
+		<div id="info">
+			<p>christopheryfchen@gmail.com • 1358 St. John's Place New York, NY • (929) 461-1396</p>
+		</div>
+		<div id="edu-head">
+		<div id="edu-header">
+			<p><b>Education</b>
+		</div>
+				<hr/>
+		<div>
+			<span style="float: left;"><b>New York University – College of Arts & Sciences</b></span>
+			<span style="float: right;"><b>New York, NY</b></span>
+		</div>
+		</div>
+			<br>
+		<div id="edu-NYU">
+			<span style="float: left;"><i>Bachelor of Science in Sociology</i></span>
+			<span style="float: right;"><i>Sep 2015 - May 2021</i></span>
+		</div>
+			<ul>
+				<li><b>Activities:</b> President of NYU Chinese Student Society</li>
+			</ul>
+	</body>
+</html>
